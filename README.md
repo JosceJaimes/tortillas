@@ -26,3 +26,7 @@ En esta licencia tambien esta subdividida en 3
 a)TRIAL: Las funciones de la aplicacion estan completamente activas por un periodo de tiempo a cambio de un determinado monto.
 b)DEMO: Las funciones se pueden usar por tiempo indefinido pero estas mismas estan limitadas, pues no es la version completa, para obtenerla tiene que generar el pago correspondiente de estas.
 c)ADWARE: Es la licencia que puede usarse sin limitaciones pero tien contenido comercial seguido, en este caso puede haber una version mas avanzada de esta app y para acceder a ella se debe hacer descarga de los comerciales o en su caso para eliminar los comerciales se debe pagar por ello.
+
+
+
+
